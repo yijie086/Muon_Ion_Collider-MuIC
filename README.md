@@ -1,1 +1,1 @@
-# MuIC-Delphes-cards
+# Tutorial for MuIC Simulation Code
