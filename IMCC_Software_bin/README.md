@@ -1,9 +1,5 @@
 # Tutorial for Install Muon Collider Software on macOS
 
-Yijie Wang (University of Science and Technology of China)
-
-Wei Li (Rice University)
-
 [toc]
 
 ## 1. Framework on macOS
