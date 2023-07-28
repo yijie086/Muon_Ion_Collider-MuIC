@@ -461,7 +461,7 @@ h16_energy_hcalB->Draw();
 
 <img src="images/image-20221104115752461.png" alt="image-20221104115752461" style="zoom:40%;" />
 
-## Back 1: Run the simulation remotely on `login.snowmass21.io`
+## Backup 1: Run the simulation remotely on `login.snowmass21.io`
 
 After creating account by following the processes in Section 5. One can follow the tutorial from: https://confluence.infn.it/display/muoncollider/Tutorial
 
